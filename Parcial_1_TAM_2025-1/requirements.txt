@@ -1,0 +1,21 @@
+# Requerimientos para el Parcial 1 TAM - 2025-1
+
+# Librerías científicas y de análisis
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Jupyter para desarrollo de notebooks
+notebook
+jupyterlab
+
+# Streamlit para el dashboard final
+streamlit
+
+# Lectura de archivos Excel (por si el dataset cambia de CSV a XLSX)
+openpyxl
+
+# Visualización interactiva avanzada para exploración o dashboard (opcional)
+# plotly
