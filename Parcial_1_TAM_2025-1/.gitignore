@@ -1,0 +1,63 @@
+# -----------------------
+# PYTHON
+# -----------------------
+__pycache__/
+*.py[cod]
+*.so
+*.log
+
+# -----------------------
+# NOTEBOOKS
+# -----------------------
+.ipynb_checkpoints/
+
+# -----------------------
+# STREAMLIT
+# -----------------------
+.streamlit/config.toml
+
+# -----------------------
+# DATOS Y RESULTADOS
+# -----------------------
+/data/*
+!/data/.gitkeep
+
+/resultados/*
+!/resultados/.gitkeep
+
+# -----------------------
+# ENTORNOS VIRTUALES
+# -----------------------
+env/
+venv/
+ENV/
+.venv/
+.env/
+
+# -----------------------
+# SISTEMA OPERATIVO
+# -----------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -----------------------
+# ARCHIVOS DE COMPRIMIDOS
+# -----------------------
+*.zip
+*.tar.gz
+*.rar
+
+# -----------------------
+# ARCHIVOS TEMPORALES DE EDICIÓN
+# -----------------------
+*.bak
+*.swp
+*.tmp
+
+# -----------------------
+# CONFIGURACIONES PERSONALES
+# -----------------------
+*.code-workspace
+.vscode/
+.idea/
