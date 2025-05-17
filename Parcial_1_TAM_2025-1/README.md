@@ -19,3 +19,13 @@ Este directorio contiene el desarrollo completo del Parcial 1 de la asignatura. 
 
 **Tecnologías:** Python, Jupyter, Streamlit, Pandas, Scikit-learn
 
+---
+
+## Instalación de dependencias
+
+Para instalar todas las librerías necesarias para este proyecto, ejecuta el siguiente comando desde la raíz del repositorio:
+
+```bash
+pip install -r requirements.txt
+
+
