@@ -12,7 +12,10 @@ Este directorio contiene el desarrollo completo del Parcial 1 de la asignatura. 
 ---
 
 **Autor:** Johan Steven Bejarano Muriel
+
 **Curso:** Teoría del Aprendizaje de Máquina - 2025-1
+
 **Profesor:** Andrés Marino Álvarez Meza 
+
 **Tecnologías:** Python, Jupyter, Streamlit, Pandas, Scikit-learn
 
