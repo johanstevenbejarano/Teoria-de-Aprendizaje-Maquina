@@ -23,6 +23,7 @@ __pycache__/
 !/data/.gitkeep
 !/data/*.csv
 !/data/*.pkl
+!/data/*.png
 
 /resultados/*
 !/resultados/.gitkeep
