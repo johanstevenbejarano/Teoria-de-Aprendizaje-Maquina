@@ -21,6 +21,8 @@ __pycache__/
 # -----------------------
 /data/*
 !/data/.gitkeep
+!/data/*.csv
+!/data/*.pkl
 
 /resultados/*
 !/resultados/.gitkeep
