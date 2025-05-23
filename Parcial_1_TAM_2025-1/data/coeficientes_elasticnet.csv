@@ -1,303 +1,303 @@
-Variable,Coeficiente
-Lot Frontage,-0.0
-Lot Area,0.03982747091031348
-Overall Qual,0.09150934712047479
-Overall Cond,0.04936608874700018
-Year Built,0.059266143226291194
-Year Remod/Add,0.012075938983110447
-Mas Vnr Area,-0.0
-BsmtFin SF 1,0.023943657816538372
-BsmtFin SF 2,0.0
-Bsmt Unf SF,-0.0035461067334178376
-Total Bsmt SF,0.024240409267039558
-1st Flr SF,0.06298614628951897
-2nd Flr SF,0.0525793290988018
-Low Qual Fin SF,0.0
-Gr Liv Area,0.07764516015465388
-Bsmt Full Bath,0.016538788332050188
-Bsmt Half Bath,0.0
-Full Bath,0.012428753224172898
-Half Bath,0.003400584658906966
-Bedroom AbvGr,-0.005884656226731838
-Kitchen AbvGr,-0.010166923777379513
-TotRms AbvGrd,-0.003734257140076065
-Fireplaces,0.013214319774011463
-Garage Yr Blt,0.009924218984735566
-Garage Cars,0.027303946674106617
-Garage Area,-0.0023194934272456704
-Wood Deck SF,0.005616628165168911
-Open Porch SF,0.0028538667766709303
-Enclosed Porch,0.0068303513622284
-3Ssn Porch,0.0015142160416780318
-Screen Porch,0.013744008775711738
-Pool Area,-0.0008217844910583942
-Misc Val,-0.0059250231351929295
-MS SubClass_150,-0.0
-MS SubClass_160,-0.019145418197565458
-MS SubClass_180,-0.0
-MS SubClass_190,0.0
-MS SubClass_20,0.017415106324296045
-MS SubClass_30,-0.014741373248843488
-MS SubClass_40,-0.0
-MS SubClass_45,0.0
-MS SubClass_50,0.0
-MS SubClass_60,-0.00634412594924185
-MS SubClass_70,0.02336286907833859
-MS SubClass_75,0.0
-MS SubClass_80,-0.0
-MS SubClass_85,0.001513305473419272
-MS SubClass_90,-0.0
-MS Zoning_C (all),-0.04340996253915993
-MS Zoning_FV,0.031737811850083904
-MS Zoning_I (all),0.0
-MS Zoning_RH,0.0
-MS Zoning_RL,0.031776526599519475
-MS Zoning_RM,-0.0
-Street_Pave,0.0
-Alley_None,-0.004114592320274899
-Alley_Pave,0.0
-Lot Shape_IR2,0.00015435556221965973
-Lot Shape_IR3,-0.008496756870117281
-Lot Shape_Reg,0.00027945242594319935
-Land Contour_HLS,0.031468709867294824
-Land Contour_Low,-0.0
-Land Contour_Lvl,0.014222751044619737
-Utilities_NoSeWa,-0.0
-Utilities_NoSewr,-0.0
-Lot Config_CulDSac,0.01157823970359092
-Lot Config_FR2,-0.0
-Lot Config_FR3,-0.0
-Lot Config_Inside,0.0
-Land Slope_Mod,0.0
-Land Slope_Sev,0.0
-Neighborhood_Blueste,0.0
-Neighborhood_BrDale,0.0
-Neighborhood_BrkSide,0.01965371313004067
-Neighborhood_ClearCr,0.0
-Neighborhood_CollgCr,-0.0
-Neighborhood_Crawfor,0.06608062754508537
-Neighborhood_Edwards,-0.03171781849306944
-Neighborhood_Gilbert,-0.01654180620897947
-Neighborhood_Greens,0.0
-Neighborhood_GrnHill,0.0
-Neighborhood_IDOTRR,-0.024572998273759226
-Neighborhood_Landmrk,-0.0
-Neighborhood_MeadowV,-0.005626565840256618
-Neighborhood_Mitchel,-0.004459880841561421
-Neighborhood_NAmes,-0.009804439619158459
-Neighborhood_NPkVill,0.0
-Neighborhood_NWAmes,-0.020983391676456062
-Neighborhood_NoRidge,0.039743740235242665
-Neighborhood_NridgHt,0.06986527082232968
-Neighborhood_OldTown,-0.019036664843177318
-Neighborhood_SWISU,0.0
-Neighborhood_Sawyer,0.0
-Neighborhood_SawyerW,-0.008794320780569275
-Neighborhood_Somerst,0.044171606324026044
-Neighborhood_StoneBr,0.044463332432276494
-Neighborhood_Timber,-0.0
-Neighborhood_Veenker,-0.0
-Condition 1_Feedr,-0.0036636206200933684
-Condition 1_Norm,0.036170995809536116
-Condition 1_PosA,0.0
-Condition 1_PosN,0.02335925535368016
-Condition 1_RRAe,-0.0
-Condition 1_RRAn,0.0
-Condition 1_RRNe,-0.0
-Condition 1_RRNn,-0.0
-Condition 2_Feedr,-0.0
-Condition 2_Norm,0.0
-Condition 2_PosA,0.0
-Condition 2_PosN,0.0
-Condition 2_RRAe,-0.0
-Condition 2_RRAn,-0.0
-Condition 2_RRNn,0.0
-Bldg Type_2fmCon,0.0
-Bldg Type_Duplex,-0.0
-Bldg Type_Twnhs,-0.011998872254362471
-Bldg Type_TwnhsE,0.0
-House Style_1.5Unf,0.0
-House Style_1Story,0.0
-House Style_2.5Fin,0.0
-House Style_2.5Unf,0.0
-House Style_2Story,-0.006535402208942924
-House Style_SFoyer,0.0
-House Style_SLvl,-0.00311888784225746
-Roof Style_Gable,-0.0
-Roof Style_Gambrel,-0.0
-Roof Style_Hip,0.0
-Roof Style_Mansard,-0.0
-Roof Style_Shed,-0.0
-Roof Matl_CompShg,0.0
-Roof Matl_Membran,0.0
-Roof Matl_Metal,0.0
-Roof Matl_Roll,0.0
-Roof Matl_Tar&Grv,0.0
-Roof Matl_WdShake,-0.0
-Roof Matl_WdShngl,0.0
-Exterior 1st_AsphShn,0.0
-Exterior 1st_BrkComm,0.0
-Exterior 1st_BrkFace,0.06256629051157707
-Exterior 1st_CBlock,-0.0
-Exterior 1st_CemntBd,0.0
-Exterior 1st_HdBoard,-0.0
-Exterior 1st_ImStucc,-0.0
-Exterior 1st_MetalSd,0.0
-Exterior 1st_Plywood,-0.0
-Exterior 1st_PreCast,0.0
-Exterior 1st_Stone,-0.0
-Exterior 1st_Stucco,-0.0
-Exterior 1st_VinylSd,0.0025204483404114163
-Exterior 1st_Wd Sdng,0.0
-Exterior 1st_WdShing,0.0
-Exterior 2nd_AsphShn,0.0
-Exterior 2nd_Brk Cmn,0.0
-Exterior 2nd_BrkFace,-0.0
-Exterior 2nd_CBlock,-0.0
-Exterior 2nd_CmentBd,0.0
-Exterior 2nd_HdBoard,-0.0
-Exterior 2nd_ImStucc,0.0
-Exterior 2nd_MetalSd,0.01253894018170829
-Exterior 2nd_Other,0.0
-Exterior 2nd_Plywood,-0.0
-Exterior 2nd_PreCast,0.0
-Exterior 2nd_Stone,-0.0
-Exterior 2nd_Stucco,-0.0
-Exterior 2nd_VinylSd,-0.0
-Exterior 2nd_Wd Sdng,0.0
-Exterior 2nd_Wd Shng,0.0
-Mas Vnr Type_BrkFace,-0.0014319943255973655
-Mas Vnr Type_CBlock,-0.0
-Mas Vnr Type_None,0.0
-Mas Vnr Type_Stone,4.892802838915281e-05
-Exter Qual_Fa,-0.004727483219080348
-Exter Qual_Gd,0.0
-Exter Qual_TA,-0.008825170179084851
-Exter Cond_Fa,-0.014962718647094293
-Exter Cond_Gd,0.0021393904705909496
-Exter Cond_Po,-0.010664090388087615
-Exter Cond_TA,0.022338826968917837
-Foundation_CBlock,0.0
-Foundation_PConc,0.02015188875892209
-Foundation_Slab,-0.0
-Foundation_Stone,0.0
-Foundation_Wood,-0.0
-Bsmt Qual_Fa,-0.02162706386032148
-Bsmt Qual_Gd,-0.02243578495442277
-Bsmt Qual_None,0.0
-Bsmt Qual_Po,0.0
-Bsmt Qual_TA,-0.016930963225030394
-Bsmt Cond_Fa,-0.0004137015268333664
-Bsmt Cond_Gd,0.0
-Bsmt Cond_None,0.0
-Bsmt Cond_Po,0.0
-Bsmt Cond_TA,0.0
-Bsmt Exposure_Gd,0.030093286045389505
-Bsmt Exposure_Mn,-0.018984523962140547
-Bsmt Exposure_No,-0.025487031538439276
-Bsmt Exposure_None,0.0
-BsmtFin Type 1_BLQ,-0.0005234041658468111
-BsmtFin Type 1_GLQ,0.0031329186720039145
-BsmtFin Type 1_LwQ,-0.00630755751659854
-BsmtFin Type 1_None,0.0
-BsmtFin Type 1_Rec,-0.005678243946017651
-BsmtFin Type 1_Unf,0.0
-BsmtFin Type 2_BLQ,-0.0
-BsmtFin Type 2_GLQ,0.0
-BsmtFin Type 2_LwQ,0.0
-BsmtFin Type 2_None,0.0
-BsmtFin Type 2_Rec,-0.0
-BsmtFin Type 2_Unf,-0.0
-Heating_GasA,0.0
-Heating_GasW,0.0
-Heating_Grav,-0.0
-Heating_OthW,-0.0
-Heating_Wall,-0.0
-Heating QC_Fa,-0.0034916266479855674
-Heating QC_Gd,-0.0
-Heating QC_Po,-0.013854330089201589
-Heating QC_TA,-0.020534310382093524
-Central Air_Y,0.05172333707104905
-Electrical_FuseF,-0.0
-Electrical_FuseP,0.0
-Electrical_Mix,-0.0
-Electrical_SBrkr,0.0026369840515849037
-Kitchen Qual_Fa,-0.030642495228270436
-Kitchen Qual_Gd,-0.028009468693475554
-Kitchen Qual_Po,0.0
-Kitchen Qual_TA,-0.03888756593215216
-Functional_Maj2,-0.0
-Functional_Min1,0.0
-Functional_Min2,0.0037131149316112057
-Functional_Mod,0.0
-Functional_Sal,-0.01689713145173879
-Functional_Sev,-0.0
-Functional_Typ,0.04335352061203458
-Fireplace Qu_Fa,0.0
-Fireplace Qu_Gd,0.0
-Fireplace Qu_None,-0.004751891964278655
-Fireplace Qu_Po,-0.0
-Fireplace Qu_TA,-0.0016474496154306082
-Garage Type_Attchd,0.00012778041866658206
-Garage Type_Basment,-0.001249403118301466
-Garage Type_BuiltIn,-0.0
-Garage Type_CarPort,-0.0
-Garage Type_Detchd,0.0027485107655484185
-Garage Type_None,0.0
-Garage Finish_None,0.0
-Garage Finish_RFn,-0.0052326455748753255
-Garage Finish_Unf,-0.00508672610842902
-Garage Qual_Fa,-0.0
-Garage Qual_Gd,0.0
-Garage Qual_None,0.0
-Garage Qual_Po,-0.0
-Garage Qual_TA,-0.0
-Garage Cond_Fa,-0.018804210950840613
-Garage Cond_Gd,0.0
-Garage Cond_None,0.0
-Garage Cond_Po,-0.02026514889383329
-Garage Cond_TA,0.02291825080852
-Paved Drive_P,-0.0
-Paved Drive_Y,0.023482409235941894
-Pool QC_Fa,0.0
-Pool QC_Gd,-0.0
-Pool QC_None,0.0
-Pool QC_TA,0.0
-Fence_GdWo,-0.009650819617014235
-Fence_MnPrv,0.0
-Fence_MnWw,-0.0
-Fence_None,-0.0
-Misc Feature_Gar2,0.0
-Misc Feature_None,-0.0
-Misc Feature_Othr,0.0
-Misc Feature_Shed,0.0
-Misc Feature_TenC,0.0
-Mo Sold_10,-0.0036084558191886553
-Mo Sold_11,-0.0
-Mo Sold_12,-0.0
-Mo Sold_2,-0.011568138140648807
-Mo Sold_3,-0.0
-Mo Sold_4,-0.0
-Mo Sold_5,0.0057865910259919115
-Mo Sold_6,0.0014402626793354177
-Mo Sold_7,0.008438488347814082
-Mo Sold_8,0.0
-Mo Sold_9,0.0017515776465239017
-Yr Sold_2007,-0.0
-Yr Sold_2008,-0.007512888614832654
-Yr Sold_2009,-0.012504725796172737
-Yr Sold_2010,-0.003791893527989067
-Sale Type_CWD,0.0
-Sale Type_Con,0.0
-Sale Type_ConLD,0.0
-Sale Type_ConLI,-0.0
-Sale Type_ConLw,0.0
-Sale Type_New,0.0423916436442364
-Sale Type_Oth,0.0
-Sale Type_VWD,-0.0
-Sale Type_WD ,-0.0
-Sale Condition_AdjLand,0.0
-Sale Condition_Alloca,0.0
-Sale Condition_Family,0.0
-Sale Condition_Normal,0.06554439443055304
-Sale Condition_Partial,0.04349125182860167
+Variable,Coeficiente,Importancia
+Lot Frontage,-0.0,0.0
+Lot Area,0.03982747091031348,0.03982747091031348
+Overall Qual,0.09150934712047479,0.09150934712047479
+Overall Cond,0.04936608874700018,0.04936608874700018
+Year Built,0.059266143226291194,0.059266143226291194
+Year Remod/Add,0.012075938983110447,0.012075938983110447
+Mas Vnr Area,-0.0,0.0
+BsmtFin SF 1,0.023943657816538372,0.023943657816538372
+BsmtFin SF 2,0.0,0.0
+Bsmt Unf SF,-0.0035461067334178376,0.0035461067334178376
+Total Bsmt SF,0.024240409267039558,0.024240409267039558
+1st Flr SF,0.06298614628951897,0.06298614628951897
+2nd Flr SF,0.0525793290988018,0.0525793290988018
+Low Qual Fin SF,0.0,0.0
+Gr Liv Area,0.07764516015465388,0.07764516015465388
+Bsmt Full Bath,0.016538788332050188,0.016538788332050188
+Bsmt Half Bath,0.0,0.0
+Full Bath,0.012428753224172898,0.012428753224172898
+Half Bath,0.003400584658906966,0.003400584658906966
+Bedroom AbvGr,-0.005884656226731838,0.005884656226731838
+Kitchen AbvGr,-0.010166923777379513,0.010166923777379513
+TotRms AbvGrd,-0.003734257140076065,0.003734257140076065
+Fireplaces,0.013214319774011463,0.013214319774011463
+Garage Yr Blt,0.009924218984735566,0.009924218984735566
+Garage Cars,0.027303946674106617,0.027303946674106617
+Garage Area,-0.0023194934272456704,0.0023194934272456704
+Wood Deck SF,0.005616628165168911,0.005616628165168911
+Open Porch SF,0.0028538667766709303,0.0028538667766709303
+Enclosed Porch,0.0068303513622284,0.0068303513622284
+3Ssn Porch,0.0015142160416780318,0.0015142160416780318
+Screen Porch,0.013744008775711738,0.013744008775711738
+Pool Area,-0.0008217844910583942,0.0008217844910583942
+Misc Val,-0.0059250231351929295,0.0059250231351929295
+MS SubClass_150,-0.0,0.0
+MS SubClass_160,-0.019145418197565458,0.019145418197565458
+MS SubClass_180,-0.0,0.0
+MS SubClass_190,0.0,0.0
+MS SubClass_20,0.017415106324296045,0.017415106324296045
+MS SubClass_30,-0.014741373248843488,0.014741373248843488
+MS SubClass_40,-0.0,0.0
+MS SubClass_45,0.0,0.0
+MS SubClass_50,0.0,0.0
+MS SubClass_60,-0.00634412594924185,0.00634412594924185
+MS SubClass_70,0.02336286907833859,0.02336286907833859
+MS SubClass_75,0.0,0.0
+MS SubClass_80,-0.0,0.0
+MS SubClass_85,0.001513305473419272,0.001513305473419272
+MS SubClass_90,-0.0,0.0
+MS Zoning_C (all),-0.04340996253915993,0.04340996253915993
+MS Zoning_FV,0.031737811850083904,0.031737811850083904
+MS Zoning_I (all),0.0,0.0
+MS Zoning_RH,0.0,0.0
+MS Zoning_RL,0.031776526599519475,0.031776526599519475
+MS Zoning_RM,-0.0,0.0
+Street_Pave,0.0,0.0
+Alley_None,-0.004114592320274899,0.004114592320274899
+Alley_Pave,0.0,0.0
+Lot Shape_IR2,0.00015435556221965973,0.00015435556221965973
+Lot Shape_IR3,-0.008496756870117281,0.008496756870117281
+Lot Shape_Reg,0.00027945242594319935,0.00027945242594319935
+Land Contour_HLS,0.031468709867294824,0.031468709867294824
+Land Contour_Low,-0.0,0.0
+Land Contour_Lvl,0.014222751044619737,0.014222751044619737
+Utilities_NoSeWa,-0.0,0.0
+Utilities_NoSewr,-0.0,0.0
+Lot Config_CulDSac,0.01157823970359092,0.01157823970359092
+Lot Config_FR2,-0.0,0.0
+Lot Config_FR3,-0.0,0.0
+Lot Config_Inside,0.0,0.0
+Land Slope_Mod,0.0,0.0
+Land Slope_Sev,0.0,0.0
+Neighborhood_Blueste,0.0,0.0
+Neighborhood_BrDale,0.0,0.0
+Neighborhood_BrkSide,0.01965371313004067,0.01965371313004067
+Neighborhood_ClearCr,0.0,0.0
+Neighborhood_CollgCr,-0.0,0.0
+Neighborhood_Crawfor,0.06608062754508537,0.06608062754508537
+Neighborhood_Edwards,-0.03171781849306944,0.03171781849306944
+Neighborhood_Gilbert,-0.01654180620897947,0.01654180620897947
+Neighborhood_Greens,0.0,0.0
+Neighborhood_GrnHill,0.0,0.0
+Neighborhood_IDOTRR,-0.024572998273759226,0.024572998273759226
+Neighborhood_Landmrk,-0.0,0.0
+Neighborhood_MeadowV,-0.005626565840256618,0.005626565840256618
+Neighborhood_Mitchel,-0.004459880841561421,0.004459880841561421
+Neighborhood_NAmes,-0.009804439619158459,0.009804439619158459
+Neighborhood_NPkVill,0.0,0.0
+Neighborhood_NWAmes,-0.020983391676456062,0.020983391676456062
+Neighborhood_NoRidge,0.039743740235242665,0.039743740235242665
+Neighborhood_NridgHt,0.06986527082232968,0.06986527082232968
+Neighborhood_OldTown,-0.019036664843177318,0.019036664843177318
+Neighborhood_SWISU,0.0,0.0
+Neighborhood_Sawyer,0.0,0.0
+Neighborhood_SawyerW,-0.008794320780569275,0.008794320780569275
+Neighborhood_Somerst,0.044171606324026044,0.044171606324026044
+Neighborhood_StoneBr,0.044463332432276494,0.044463332432276494
+Neighborhood_Timber,-0.0,0.0
+Neighborhood_Veenker,-0.0,0.0
+Condition 1_Feedr,-0.0036636206200933684,0.0036636206200933684
+Condition 1_Norm,0.036170995809536116,0.036170995809536116
+Condition 1_PosA,0.0,0.0
+Condition 1_PosN,0.02335925535368016,0.02335925535368016
+Condition 1_RRAe,-0.0,0.0
+Condition 1_RRAn,0.0,0.0
+Condition 1_RRNe,-0.0,0.0
+Condition 1_RRNn,-0.0,0.0
+Condition 2_Feedr,-0.0,0.0
+Condition 2_Norm,0.0,0.0
+Condition 2_PosA,0.0,0.0
+Condition 2_PosN,0.0,0.0
+Condition 2_RRAe,-0.0,0.0
+Condition 2_RRAn,-0.0,0.0
+Condition 2_RRNn,0.0,0.0
+Bldg Type_2fmCon,0.0,0.0
+Bldg Type_Duplex,-0.0,0.0
+Bldg Type_Twnhs,-0.011998872254362471,0.011998872254362471
+Bldg Type_TwnhsE,0.0,0.0
+House Style_1.5Unf,0.0,0.0
+House Style_1Story,0.0,0.0
+House Style_2.5Fin,0.0,0.0
+House Style_2.5Unf,0.0,0.0
+House Style_2Story,-0.006535402208942924,0.006535402208942924
+House Style_SFoyer,0.0,0.0
+House Style_SLvl,-0.00311888784225746,0.00311888784225746
+Roof Style_Gable,-0.0,0.0
+Roof Style_Gambrel,-0.0,0.0
+Roof Style_Hip,0.0,0.0
+Roof Style_Mansard,-0.0,0.0
+Roof Style_Shed,-0.0,0.0
+Roof Matl_CompShg,0.0,0.0
+Roof Matl_Membran,0.0,0.0
+Roof Matl_Metal,0.0,0.0
+Roof Matl_Roll,0.0,0.0
+Roof Matl_Tar&Grv,0.0,0.0
+Roof Matl_WdShake,-0.0,0.0
+Roof Matl_WdShngl,0.0,0.0
+Exterior 1st_AsphShn,0.0,0.0
+Exterior 1st_BrkComm,0.0,0.0
+Exterior 1st_BrkFace,0.06256629051157707,0.06256629051157707
+Exterior 1st_CBlock,-0.0,0.0
+Exterior 1st_CemntBd,0.0,0.0
+Exterior 1st_HdBoard,-0.0,0.0
+Exterior 1st_ImStucc,-0.0,0.0
+Exterior 1st_MetalSd,0.0,0.0
+Exterior 1st_Plywood,-0.0,0.0
+Exterior 1st_PreCast,0.0,0.0
+Exterior 1st_Stone,-0.0,0.0
+Exterior 1st_Stucco,-0.0,0.0
+Exterior 1st_VinylSd,0.0025204483404114163,0.0025204483404114163
+Exterior 1st_Wd Sdng,0.0,0.0
+Exterior 1st_WdShing,0.0,0.0
+Exterior 2nd_AsphShn,0.0,0.0
+Exterior 2nd_Brk Cmn,0.0,0.0
+Exterior 2nd_BrkFace,-0.0,0.0
+Exterior 2nd_CBlock,-0.0,0.0
+Exterior 2nd_CmentBd,0.0,0.0
+Exterior 2nd_HdBoard,-0.0,0.0
+Exterior 2nd_ImStucc,0.0,0.0
+Exterior 2nd_MetalSd,0.01253894018170829,0.01253894018170829
+Exterior 2nd_Other,0.0,0.0
+Exterior 2nd_Plywood,-0.0,0.0
+Exterior 2nd_PreCast,0.0,0.0
+Exterior 2nd_Stone,-0.0,0.0
+Exterior 2nd_Stucco,-0.0,0.0
+Exterior 2nd_VinylSd,-0.0,0.0
+Exterior 2nd_Wd Sdng,0.0,0.0
+Exterior 2nd_Wd Shng,0.0,0.0
+Mas Vnr Type_BrkFace,-0.0014319943255973655,0.0014319943255973655
+Mas Vnr Type_CBlock,-0.0,0.0
+Mas Vnr Type_None,0.0,0.0
+Mas Vnr Type_Stone,4.892802838915281e-05,4.892802838915281e-05
+Exter Qual_Fa,-0.004727483219080348,0.004727483219080348
+Exter Qual_Gd,0.0,0.0
+Exter Qual_TA,-0.008825170179084851,0.008825170179084851
+Exter Cond_Fa,-0.014962718647094293,0.014962718647094293
+Exter Cond_Gd,0.0021393904705909496,0.0021393904705909496
+Exter Cond_Po,-0.010664090388087615,0.010664090388087615
+Exter Cond_TA,0.022338826968917837,0.022338826968917837
+Foundation_CBlock,0.0,0.0
+Foundation_PConc,0.02015188875892209,0.02015188875892209
+Foundation_Slab,-0.0,0.0
+Foundation_Stone,0.0,0.0
+Foundation_Wood,-0.0,0.0
+Bsmt Qual_Fa,-0.02162706386032148,0.02162706386032148
+Bsmt Qual_Gd,-0.02243578495442277,0.02243578495442277
+Bsmt Qual_None,0.0,0.0
+Bsmt Qual_Po,0.0,0.0
+Bsmt Qual_TA,-0.016930963225030394,0.016930963225030394
+Bsmt Cond_Fa,-0.0004137015268333664,0.0004137015268333664
+Bsmt Cond_Gd,0.0,0.0
+Bsmt Cond_None,0.0,0.0
+Bsmt Cond_Po,0.0,0.0
+Bsmt Cond_TA,0.0,0.0
+Bsmt Exposure_Gd,0.030093286045389505,0.030093286045389505
+Bsmt Exposure_Mn,-0.018984523962140547,0.018984523962140547
+Bsmt Exposure_No,-0.025487031538439276,0.025487031538439276
+Bsmt Exposure_None,0.0,0.0
+BsmtFin Type 1_BLQ,-0.0005234041658468111,0.0005234041658468111
+BsmtFin Type 1_GLQ,0.0031329186720039145,0.0031329186720039145
+BsmtFin Type 1_LwQ,-0.00630755751659854,0.00630755751659854
+BsmtFin Type 1_None,0.0,0.0
+BsmtFin Type 1_Rec,-0.005678243946017651,0.005678243946017651
+BsmtFin Type 1_Unf,0.0,0.0
+BsmtFin Type 2_BLQ,-0.0,0.0
+BsmtFin Type 2_GLQ,0.0,0.0
+BsmtFin Type 2_LwQ,0.0,0.0
+BsmtFin Type 2_None,0.0,0.0
+BsmtFin Type 2_Rec,-0.0,0.0
+BsmtFin Type 2_Unf,-0.0,0.0
+Heating_GasA,0.0,0.0
+Heating_GasW,0.0,0.0
+Heating_Grav,-0.0,0.0
+Heating_OthW,-0.0,0.0
+Heating_Wall,-0.0,0.0
+Heating QC_Fa,-0.0034916266479855674,0.0034916266479855674
+Heating QC_Gd,-0.0,0.0
+Heating QC_Po,-0.013854330089201589,0.013854330089201589
+Heating QC_TA,-0.020534310382093524,0.020534310382093524
+Central Air_Y,0.05172333707104905,0.05172333707104905
+Electrical_FuseF,-0.0,0.0
+Electrical_FuseP,0.0,0.0
+Electrical_Mix,-0.0,0.0
+Electrical_SBrkr,0.0026369840515849037,0.0026369840515849037
+Kitchen Qual_Fa,-0.030642495228270436,0.030642495228270436
+Kitchen Qual_Gd,-0.028009468693475554,0.028009468693475554
+Kitchen Qual_Po,0.0,0.0
+Kitchen Qual_TA,-0.03888756593215216,0.03888756593215216
+Functional_Maj2,-0.0,0.0
+Functional_Min1,0.0,0.0
+Functional_Min2,0.0037131149316112057,0.0037131149316112057
+Functional_Mod,0.0,0.0
+Functional_Sal,-0.01689713145173879,0.01689713145173879
+Functional_Sev,-0.0,0.0
+Functional_Typ,0.04335352061203458,0.04335352061203458
+Fireplace Qu_Fa,0.0,0.0
+Fireplace Qu_Gd,0.0,0.0
+Fireplace Qu_None,-0.004751891964278655,0.004751891964278655
+Fireplace Qu_Po,-0.0,0.0
+Fireplace Qu_TA,-0.0016474496154306082,0.0016474496154306082
+Garage Type_Attchd,0.00012778041866658206,0.00012778041866658206
+Garage Type_Basment,-0.001249403118301466,0.001249403118301466
+Garage Type_BuiltIn,-0.0,0.0
+Garage Type_CarPort,-0.0,0.0
+Garage Type_Detchd,0.0027485107655484185,0.0027485107655484185
+Garage Type_None,0.0,0.0
+Garage Finish_None,0.0,0.0
+Garage Finish_RFn,-0.0052326455748753255,0.0052326455748753255
+Garage Finish_Unf,-0.00508672610842902,0.00508672610842902
+Garage Qual_Fa,-0.0,0.0
+Garage Qual_Gd,0.0,0.0
+Garage Qual_None,0.0,0.0
+Garage Qual_Po,-0.0,0.0
+Garage Qual_TA,-0.0,0.0
+Garage Cond_Fa,-0.018804210950840613,0.018804210950840613
+Garage Cond_Gd,0.0,0.0
+Garage Cond_None,0.0,0.0
+Garage Cond_Po,-0.02026514889383329,0.02026514889383329
+Garage Cond_TA,0.02291825080852,0.02291825080852
+Paved Drive_P,-0.0,0.0
+Paved Drive_Y,0.023482409235941894,0.023482409235941894
+Pool QC_Fa,0.0,0.0
+Pool QC_Gd,-0.0,0.0
+Pool QC_None,0.0,0.0
+Pool QC_TA,0.0,0.0
+Fence_GdWo,-0.009650819617014235,0.009650819617014235
+Fence_MnPrv,0.0,0.0
+Fence_MnWw,-0.0,0.0
+Fence_None,-0.0,0.0
+Misc Feature_Gar2,0.0,0.0
+Misc Feature_None,-0.0,0.0
+Misc Feature_Othr,0.0,0.0
+Misc Feature_Shed,0.0,0.0
+Misc Feature_TenC,0.0,0.0
+Mo Sold_10,-0.0036084558191886553,0.0036084558191886553
+Mo Sold_11,-0.0,0.0
+Mo Sold_12,-0.0,0.0
+Mo Sold_2,-0.011568138140648807,0.011568138140648807
+Mo Sold_3,-0.0,0.0
+Mo Sold_4,-0.0,0.0
+Mo Sold_5,0.0057865910259919115,0.0057865910259919115
+Mo Sold_6,0.0014402626793354177,0.0014402626793354177
+Mo Sold_7,0.008438488347814082,0.008438488347814082
+Mo Sold_8,0.0,0.0
+Mo Sold_9,0.0017515776465239017,0.0017515776465239017
+Yr Sold_2007,-0.0,0.0
+Yr Sold_2008,-0.007512888614832654,0.007512888614832654
+Yr Sold_2009,-0.012504725796172737,0.012504725796172737
+Yr Sold_2010,-0.003791893527989067,0.003791893527989067
+Sale Type_CWD,0.0,0.0
+Sale Type_Con,0.0,0.0
+Sale Type_ConLD,0.0,0.0
+Sale Type_ConLI,-0.0,0.0
+Sale Type_ConLw,0.0,0.0
+Sale Type_New,0.0423916436442364,0.0423916436442364
+Sale Type_Oth,0.0,0.0
+Sale Type_VWD,-0.0,0.0
+Sale Type_WD ,-0.0,0.0
+Sale Condition_AdjLand,0.0,0.0
+Sale Condition_Alloca,0.0,0.0
+Sale Condition_Family,0.0,0.0
+Sale Condition_Normal,0.06554439443055304,0.06554439443055304
+Sale Condition_Partial,0.04349125182860167,0.04349125182860167
